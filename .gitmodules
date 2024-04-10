@@ -1,0 +1,3 @@
+[submodule "lib/pid-controller"]
+	path = lib/pid-controller
+	url = git@github.com:Jakub-Sawicki/pid-controller.git
